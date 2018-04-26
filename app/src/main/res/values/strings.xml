@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BackGroundDataServiceTester</string>
+    <string name="view_hint_1">async result 1</string>
+    <string name="view_hint_2">async result 2</string>
+    <string name="view_hint_3">async result 3</string>
+    <string name="view_hint_4">async result 4</string>
+    <string name="title_1">Async Task 1</string>
+    <string name="title_2">Async Task 2</string>
+    <string name="title_3">Async Task 3</string>
+    <string name="title_4">Async Task 4</string>
+    <string name="button_text">Communicate</string>
+</resources>
